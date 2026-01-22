@@ -31,10 +31,10 @@
   "dependencies": {
     "async-mqtt": "^2.6.3",
     "convert-units": "^2.3.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "onstarjs": "^2.5.3",
-    "uuid": "^10.0.0",
-    "winston": "^3.13.0"
+    "uuid": "^13.0.0",
+    "winston": "^3.19.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.25.1",
